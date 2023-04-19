@@ -1,0 +1,73 @@
+* times.rb
+いちめんのなのはな
+上記の例文を7回表示させるプログラム
+* times2.rb
+0回目の繰り返しです。
+1回目の繰り返しです。
+2回目の繰り返しです。
+3回目の繰り返しです。
+4回目の繰り返しです。
+繰り返し回数を表示させるプログラム
+* times3.rb
+1回目の繰り返しです。
+2回目の繰り返しです。
+3回目の繰り返しです。
+4回目の繰り返しです。
+5回目の繰り返しです。
+繰り返し回数+1を表示させるプログラム
+* for.rb
+15
+1..5までの整数の和を計算して表示するプログラム
+* for_names.rb
+awk
+Perl
+python
+Ruby
+配列に表示された文字列をすべて表示するプログラム
+* while.rb
+1
+2
+3未満の正の整数を表示するプログラム
+* while2.rb
+15
+for.rbのプログラムをwhileに書き換えたプログラム
+* while3.rb
+55
+整数の合計値が50を超えないような合計値を計算するプログラム
+* until.rb
+55
+while3.rbの条件否定バージョンに書き換えたプログラム
+* while_not.rb
+55
+while3.rbの条件否定バージョンに書き換えたプログラム
+* each_names.rb
+awk
+Perl
+python
+Ruby
+for_names.rbをeach文に書き換えたプログラム
+* each.rb
+15
+for.rbをeach文に書き換えたプログラム
+* break_next.rb
+breakの例:
+[1, "Perl"]
+[2, "Python"]
+nextの例:
+[1, "Perl"]
+[2, "Python"]
+[4, "Scheme"]
+breakとnextメソッドの性質を確かめるためのプログラム
+* ten_lines_grep.rb
+puts "breakの例:"
+  p [i, lang]
+puts "nextの例:"
+  p [i, lang]
+入力パターンが10回以上一致すれば終了するプログラム  
+* strip.rb
+入力を1行ずつ読み取って空白行と#で始まる行は読み飛ばして、それ以外はそのまま出力するプログラム
+* hello.rb
+strip.rbのファイルプログラム
+* stripped_hello.rb
+strip.rbの出力結果を表すプログラム
+

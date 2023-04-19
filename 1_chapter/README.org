@@ -1,0 +1,41 @@
+* helloruby.rb
+Hello, Ruby.
+Hello, Ruby.と改行ありで表示するプログラム
+* puts_and_p.rb
+Hello,
+	Ruby.
+"Hello,\n\tRuby."
+Hello, Ruby.に対しprintとpの表示の違いを確かめるプログラム
+* kiritsubo.rb
+いづれの御時にか女御更衣あまたさぶらいたまいけるなかに
+いとやむごとなき際にあらぬがすぐれて時めきたまふありけり
+日本語を表示するプログラム
+* area_volume.rb
+表面積=2200
+体積=6000
+高さと縦の長さと横の長さから表面積と体積を計算して表示するプログラム
+* comment_sample.rb
+表面積=2200
+体積=6000
+area_volume.rbにコメントを残したプログラム
+* greater_smaller.rb
+greter
+数字を格納させた変数に対し、大小関係を確認するプログラム
+* greater_smaller_else.rb
+greter
+greater_smaller.rbに対し、if文を2つ使用するのではなく、elseを使用してまとめたプログラム
+* ten_number.rb
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1~10までの数字をwhile文を使用して表示するプログラム
+* times_try.rb
+All work and no play makes Jack a dull boy
+上記の例文を100回表示させるプログラム

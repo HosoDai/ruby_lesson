@@ -1,0 +1,20 @@
+* ad2age.rb
+30
+入力した西暦からRubyが生まれて何年経過したか計算するプログラム
+* if_elsif.rb
+aはbよりも小さい
+2つの整数が入力された変数を大小比較するプログラム
+* unless.rb
+aはbより大きくない
+if_elsif.rbのプログラムを「〜でなければ」というunless文に書き換えたプログラム
+* case.rb
+A has a child.
+IMG has no child.
+PRE cannot be used.
+配列に格納されたオブジェクトをcase文を用いて比較するプログラム
+* case_class.rb
+item is a String.
+item is a Numeric.
+item is something.
+異なるオブジェクトが格納された配列の1つ1つの要素をcase文を用いて条件判定するプログラム
+

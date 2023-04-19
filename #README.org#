@@ -1,0 +1,50 @@
+* pattern_matching.rb
+小林
+竹林
+名前を格納させた配列に対し"林"という文字が入っていれば、その配列の要素を表示させるプログラム
+* puts_argv.rb
+最初の引数 : 1
+2番目の引数 : 2
+3番目の引数 : 3
+4番目の引数 : 4
+5番目の引数 : 5
+5つの引数を受け取ってそれを表示するプログラム
+* happy_birth.rb
+Happy Birthday, hosoi
+引数で受け取った名前に対し、誕生日を祝うプログラム
+* arg_arith.rb
+9 + 3 = 12
+9 - 3 = 6
+9 * 3 = 27
+9 / 3 = 3
+受け取った2つの整数に対し、四則演算をするプログラム
+* read_text.rb
+num0 = ARGV[0].to_i
+num1 = ARGV[1].to_i
+
+puts "#{num0} + #{num1} = #{num0 + num1}"
+puts "#{num0} - #{num1} = #{num0 - num1}"
+puts "#{num0} * #{num1} = #{num0 * num1}"
+puts "#{num0} / #{num1} = #{num0 / num1}"
+引数で受け取ったファイルに対しファイルの中身を表示するプログラム
+* read_text_simple.rb
+引数で受け取ったファイルを閉じずに読み込むプログラム
+* read_text_online.rb
+引数で受け取ったファイルを変数に格納させずにそのまま読み込むプログラム
+* read_line.rb
+引数で受け取ったファイルに対し1行読み込み1行表示するプログラム
+* simple_grep.rb
+ファイルの中から特定のパターンの行のみを選んで出力するプログラム
+* hello_ruby2.rb
+Hello, Ruby.と表示するプログラムをメソッド化させたプログラム
+* use_hello.rb
+hello_ruby2.rbのhelloメソッドを呼び出して使用するプログラム
+* use_grep.rb
+2つの引数を受け取りgrep.rbのsimple_grepを呼び出すプログラム
+* scopetest.rb
+グローバル変数とローカル変数の違いを理解する為のプログラム
+* sub.rb
+グローバル変数とローカル変数にそれぞれ値を代入するプログラム
+* grep.rb
+引数で受け取ったパターン文字列とファイルに対し、パターンマッチングを行うプログラム
+
